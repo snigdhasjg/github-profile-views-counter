@@ -1,8 +1,16 @@
 {
   "devMode": "false",
-  "advancedMode": "false",
+  "advancedMode": "true",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "snigdhasjg.github.io",
+    "snigdhasjg",
+    "playground",
+    "kafka-events-demo",
+    "aws-terraform",
+    "contract-test",
+    "verbose-carnival",
+    "splitbills",
+    "Pythagorean-Triplate"
   ]
 }
