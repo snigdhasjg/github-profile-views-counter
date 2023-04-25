@@ -26,13 +26,109 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/4/22 12:00 AM UTC
+			2023/4/23 12:00 AM UTC
 		</td>
 		<td>
-			35
+			36
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/610491551/small/week.png" height="20"> 836
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/610491551/small/week.png" height="20"> 924
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/469472181/week.md">
+				snigdhasjg
+			</a>
+		</td>
+		<td>
+			2023/4/23 11:34 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/469472181/small/week.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/327022635/week.md">
+				playground
+			</a>
+		</td>
+		<td>
+			2023/4/23 11:35 PM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/327022635/small/week.png" height="20"> 68
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/505153827/week.md">
+				kafka-events-demo
+			</a>
+		</td>
+		<td>
+			2023/4/23 11:35 PM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/505153827/small/week.png" height="20"> 19
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/597687139/week.md">
+				aws-terraform
+			</a>
+		</td>
+		<td>
+			2023/4/23 12:00 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/597687139/small/week.png" height="20"> 100
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/511679147/week.md">
+				contract-test
+			</a>
+		</td>
+		<td>
+			2023/4/23 11:36 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/511679147/small/week.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/397389606/week.md">
+				verbose-carnival
+			</a>
+		</td>
+		<td>
+			2023/4/23 11:36 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/397389606/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/4/22 11:39 PM UTC
+			2023/4/23 11:37 PM UTC
 		</td>
 		<td>
 			9
@@ -58,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/4/22 11:39 PM UTC
+			2023/4/23 11:37 PM UTC
 		</td>
 		<td>
 			5
@@ -69,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/4/24 11:51 PM UTC</i></small>
+<small><i>Last updated on 2023/4/25 11:37 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
