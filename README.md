@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/10/16 11:33 PM UTC
+			2023/10/17 11:34 PM UTC
 		</td>
 		<td>
 			64
@@ -37,28 +37,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/469472181/week.md">
-				snigdhasjg
-			</a>
-		</td>
-		<td>
-			2023/10/16 11:34 PM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/469472181/small/week.png" height="20"> 9
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/327022635/week.md">
 				playground
 			</a>
 		</td>
 		<td>
-			2023/10/16 11:34 PM UTC
+			2023/10/17 11:35 PM UTC
 		</td>
 		<td>
 			25
@@ -74,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/10/16 11:35 PM UTC
+			2023/10/17 11:36 PM UTC
 		</td>
 		<td>
 			19
@@ -90,13 +74,93 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/10/16 11:35 PM UTC
+			2023/10/17 12:00 AM UTC
 		</td>
 		<td>
-			39
+			40
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/597687139/small/week.png" height="20"> 472
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/597687139/small/week.png" height="20"> 478
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/688652912/week.md">
+				azure-terraform
+			</a>
+		</td>
+		<td>
+			2023/10/16 3:44 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/688652912/small/week.png" height="20"> 15
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/675120698/week.md">
+				infra-sandbox
+			</a>
+		</td>
+		<td>
+			2023/10/16 3:45 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/675120698/small/week.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/698726650/week.md">
+				aws-console
+			</a>
+		</td>
+		<td>
+			2023/10/16 12:00 AM UTC
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/698726650/small/week.png" height="20"> 47
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/703494461/week.md">
+				eks-demo
+			</a>
+		</td>
+		<td>
+			2023/10/16 3:46 PM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/703494461/small/week.png" height="20"> 43
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/696713461/week.md">
+				devops-pathway
+			</a>
+		</td>
+		<td>
+			2023/10/16 3:46 PM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/696713461/small/week.png" height="20"> 144
 		</td>
 	</tr>
 	<tr>
@@ -106,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/10/16 11:35 PM UTC
+			2023/10/17 11:37 PM UTC
 		</td>
 		<td>
 			6
@@ -117,28 +181,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/397389606/week.md">
-				verbose-carnival
-			</a>
-		</td>
-		<td>
-			2023/10/16 11:36 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/snigdhasjg/github-profile-views-counter/raw/master/graph/397389606/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/snigdhasjg/github-profile-views-counter/tree/master/readme/167969231/week.md">
 				splitbills
 			</a>
 		</td>
 		<td>
-			2023/10/16 11:36 PM UTC
+			2023/10/17 11:38 PM UTC
 		</td>
 		<td>
 			33
@@ -154,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/10/16 11:37 PM UTC
+			2023/10/17 11:39 PM UTC
 		</td>
 		<td>
 			11
@@ -165,7 +213,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/10/18 11:38 PM UTC</i></small>
+<small><i>Last updated on 2023/10/19 3:48 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
