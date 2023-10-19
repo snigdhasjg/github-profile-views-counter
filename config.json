@@ -4,12 +4,15 @@
   "language": "en-US",
   "repository": [
     "snigdhasjg.github.io",
-    "snigdhasjg",
     "playground",
     "kafka-events-demo",
     "aws-terraform",
+    "azure-terraform",
+    "infra-sandbox",
+    "aws-console",
+    "eks-demo",
+    "devops-pathway",
     "contract-test",
-    "verbose-carnival",
     "splitbills",
     "Pythagorean-Triplate"
   ]
