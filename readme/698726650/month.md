@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/snigdhasjg/github-profile-views-counter)
 | [**Week →**](https://github.com/snigdhasjg/github-profile-views-counter/blob/master/readme/698726650/week.md) | [**Month →**](https://github.com/snigdhasjg/github-profile-views-counter/blob/master/readme/698726650/month.md) | [**Year →**](https://github.com/snigdhasjg/github-profile-views-counter/blob/master/readme/698726650/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [aws-console](https://github.com/snigdhasjg/aws-console)
+### :octocat: [aws-fusion](https://github.com/snigdhasjg/aws-fusion)
 ![Image of github-profile-views-counter](https://github.com/snigdhasjg/github-profile-views-counter/blob/master/graph/698726650/large/month.png)
 
 <details>
@@ -18,6 +18,17 @@
 		<th>
 			Count
 		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/14</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>5</code>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -349,21 +360,10 @@
 			<code>0</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2023/10/14</code>
-		</td>
-		<td>
-			<code>1</code>
-		</td>
-		<td>
-			<code>21</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2023/11/13 11:37 PM UTC</i></small>
+<small><i>Last updated on 2023/11/14 11:36 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -372,9 +372,9 @@
 [![Image of github-profile-views-counter](https://github.com/snigdhasjg/github-profile-views-counter/blob/master/svg/698726650/badge.svg)](https://github.com/snigdhasjg/github-profile-views-counter/blob/master/readme/698726650/week.md)
 ```
 ### Header
-# aws-console [<img alt="Image of github-profile-views-counter" src="https://github.com/snigdhasjg/github-profile-views-counter/blob/master/graph/698726650/small/week.png" height="20">](https://github.com/snigdhasjg/github-profile-views-counter/blob/master/readme/698726650/week.md)
+# aws-fusion [<img alt="Image of github-profile-views-counter" src="https://github.com/snigdhasjg/github-profile-views-counter/blob/master/graph/698726650/small/week.png" height="20">](https://github.com/snigdhasjg/github-profile-views-counter/blob/master/readme/698726650/week.md)
 ```readme
-# aws-console [<img alt="Image of github-profile-views-counter" src="https://github.com/snigdhasjg/github-profile-views-counter/blob/master/graph/698726650/small/week.png" height="20">](https://github.com/snigdhasjg/github-profile-views-counter/blob/master/readme/698726650/week.md)
+# aws-fusion [<img alt="Image of github-profile-views-counter" src="https://github.com/snigdhasjg/github-profile-views-counter/blob/master/graph/698726650/small/week.png" height="20">](https://github.com/snigdhasjg/github-profile-views-counter/blob/master/readme/698726650/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
