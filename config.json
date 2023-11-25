@@ -9,7 +9,7 @@
     "aws-terraform",
     "azure-terraform",
     "infra-sandbox",
-    "aws-console",
+    "aws-fusion",
     "eks-demo",
     "devops-pathway",
     "contract-test",
