@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/31</code>
+			<code>2025/2/1</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -32,7 +32,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/30</code>
+			<code>2025/1/31</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -43,7 +43,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/29</code>
+			<code>2025/1/30</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -54,7 +54,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/28</code>
+			<code>2025/1/29</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -65,7 +65,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/27</code>
+			<code>2025/1/28</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -76,7 +76,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/26</code>
+			<code>2025/1/27</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -87,7 +87,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/25</code>
+			<code>2025/1/26</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -98,7 +98,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/24</code>
+			<code>2025/1/25</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -109,7 +109,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/23</code>
+			<code>2025/1/24</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -120,7 +120,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/22</code>
+			<code>2025/1/23</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -131,7 +131,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/21</code>
+			<code>2025/1/22</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -142,7 +142,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/20</code>
+			<code>2025/1/21</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -153,7 +153,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/19</code>
+			<code>2025/1/20</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -164,7 +164,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/18</code>
+			<code>2025/1/19</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -175,7 +175,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/17</code>
+			<code>2025/1/18</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -186,7 +186,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/16</code>
+			<code>2025/1/17</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -197,7 +197,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/15</code>
+			<code>2025/1/16</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -208,7 +208,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/14</code>
+			<code>2025/1/15</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -219,7 +219,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/13</code>
+			<code>2025/1/14</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -230,7 +230,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/12</code>
+			<code>2025/1/13</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -241,7 +241,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/11</code>
+			<code>2025/1/12</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -252,7 +252,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/10</code>
+			<code>2025/1/11</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -263,18 +263,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/9</code>
-		</td>
-		<td>
-			<code>1</code>
-		</td>
-		<td>
-			<code>3</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/12/8</code>
+			<code>2025/1/10</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -285,7 +274,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/7</code>
+			<code>2025/1/9</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -296,18 +285,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/6</code>
-		</td>
-		<td>
-			<code>1</code>
-		</td>
-		<td>
-			<code>1</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/12/5</code>
+			<code>2025/1/8</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -318,7 +296,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/4</code>
+			<code>2025/1/7</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -329,7 +307,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/3</code>
+			<code>2025/1/6</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -340,7 +318,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/2</code>
+			<code>2025/1/5</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -351,7 +329,29 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/12/1</code>
+			<code>2025/1/4</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/1/3</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/1/2</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -363,7 +363,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/12/31 11:34 PM UTC</i></small>
+<small><i>Last updated on 2025/2/1 4:08 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
