@@ -3,26 +3,29 @@ on:
   schedule:
     - cron: '30 23 * * *'
   workflow_dispatch:
-  
-permissions:
-  contents: write
 
 jobs:
   release:
     name: GitHub Profile Views Counter Action
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ vars.SNIGDHASJG_GITHUB_APP_ID }}
+          private-key: ${{ secrets.SNIGDHASJG_GITHUB_APP_PRIVATE_KEY }}
+
       - name: Checkout 🛎️
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.INSIGHTS_TOKEN }}
-          
+          token: ${{ steps.app-token.outputs.token }}
+
       - name: Setup node
         uses: actions/setup-node@v3
         with:
           node-version: 14.17.0
-          
+
       - name: Agreegate github insights data
         uses: gayanvoice/github-profile-views-counter-action@3.0.0
         env:
-          INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+          INSIGHTS_TOKEN: ${{ steps.app-token.outputs.token }}
